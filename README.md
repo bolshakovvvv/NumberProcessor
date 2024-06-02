@@ -28,8 +28,10 @@
    ```bash
    git clone https://github.com/bolshakovvvv/TZ2.git
 2. Перейдите в директорию проекта
+   ```bash
    cd TZ2
-3. Соберите проект
+4. Соберите проект
+   ```bash
    mvn clean install
 
 ## Структура проекта

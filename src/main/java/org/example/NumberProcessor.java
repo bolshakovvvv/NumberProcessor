@@ -19,7 +19,7 @@ public class NumberProcessor {
 
     //Функция чтения из файла, инициализации и заполнения массива
     private void readFromFile() throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader("input_1000000_el.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("input_5_el.txt"));
         String[] s = br.readLine().split(" ");
         list = new ArrayList<>();
         for (String i : s){

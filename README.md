@@ -36,4 +36,4 @@ src/test/java/com/test/TestClass.java - Класс с тестами для пр
 src/main/java/org/example/NumbersGeneration.java - Класс для генерации файлов с числами для тестирования производительности.
 
 ## График производительности
-
+- [График производительности getMult()](chart.png)
